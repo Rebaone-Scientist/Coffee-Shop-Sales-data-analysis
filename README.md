@@ -4,17 +4,17 @@ Author: Rebaone Maamogwa
 
 Role: Junior Data Analyst
 
-Tools Used:
+##Tools Used:
 
 Snowflake SQL | Microsoft Excel | CANVA | Miro
 
-Project Overview
+##Project Overview
 
 This project analyzes historical transactional data from Bright Coffee Shop to uncover key business insights for the newly appointed CEO.
 
 The goal is to help management understand revenue performance, sales trends, and opportunities for growth across different products, store locations, and time periods.
 
-Objectives
+##Objectives
 
 The analysis answers the following key business questions:
 
@@ -28,7 +28,7 @@ The analysis answers the following key business questions:
 
 5.What recommendations can improve sales performance?
 
-Data Flow:
+##Data Flow:
 
 Source: Bright Coffee Shop transactional dataset (Bright Coffee Shop Analysis - Transactions.csv)
 
@@ -40,7 +40,7 @@ Visualization: Results exported to Excel and CANVA
 
 Reporting: Findings summarized in CANVA for the CEO
 
-Data Processing Steps
+##Data Processing Steps
 
 Data Cleaning
 
@@ -67,8 +67,7 @@ Calculated total revenue
 Identified high-performing and low-performing products
 
 
-
-Key Insights
+##Key Insights
 
 Metric	Result
 
@@ -78,13 +77,13 @@ Peak Time	Morning (06:00 AM – 11:59 AM)
 
 Top Category	[Insert top category from your SQL results]
 
-Best Store Location	[Insert top store location]
+Best Store Location	[Lower Manhattan]
 
-Low Performing Period	Evening (after 17:00)
+Low Performing Period	Evening (after 17:00) Hell's Kitchen
 
 Visualizations (Excel / CANVA)
 
-Revenue by Product Category (Bar chart)
+Revenue by Product Category (Pie Chart)
 
 Sales by Time of Day (Column chart)
 
@@ -94,7 +93,7 @@ Total Revenue Trend over Time (Line chart)
 
 Top 5 Best-selling Products (Table visual)
 
-Recommendations
+##Recommendations
 
 Increase marketing during slower hours (e.g., offer discounts in the evening).
 
