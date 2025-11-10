@@ -4,7 +4,7 @@ Author: Rebaone Maamogwa
 
 Role: Junior Data Analyst
 
-##Tools Used:
+#Tools Used:
 
 Snowflake SQL | Microsoft Excel | CANVA | Miro
 
