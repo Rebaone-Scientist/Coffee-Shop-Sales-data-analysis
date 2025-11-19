@@ -75,7 +75,7 @@ Total Revenue	R689,812
 
 Peak Time	Morning (06:00 AM – 11:59 AM)
 
-Top Category	[Insert top category from your SQL results]
+Top Category	[COFFEE]
 
 Best Store Location	[Lower Manhattan]
 
@@ -83,21 +83,25 @@ Low Performing Period	Evening (after 17:00) Hell's Kitchen
 
 Visualizations (Excel / CANVA)
 
-Revenue by Product Category (Pie Chart)
+Revenue by Product Category (Bar Graph)
 
-Sales by Time of Day (Column chart)
+Weekday Vs Weekend Revenue ( Bar Graph)
 
-Quantity Sold by Product Type (Pie chart)
+Quantity Sold by Product Type (Bar Graph)
 
 Total Revenue Trend over Time (Line chart)
 
-Top 5 Best-selling Products (Table visual)
+Top 2  Best-selling Products (Coffee And Tea)
+
+Total sales by store location (Pie Chart)
 
 ##Recommendations
 
-Increase marketing during slower hours (e.g., offer discounts in the evening).
-
-Stock more of best-selling products to meet high morning demand.
-
-Promote underperforming items via combo deals.
-Implement a loyalty program to reward repeat customers.
+1.Capitalize on Lower Manhattan's strong performance
+2.Consider allocating more resources (marketing, inventory, staff) to Lower Manhattan to sustain and further boost sales. 
+3.Boost strategies for Astoria and Hell's Kitchen
+4. Analyse factors contributing to growth in these locations. Implement targeted promotions or loyalty programs to maintain momentum. 
+5.Prepare for seasonal trends
+6.Given revenue increased over Jan-June, anticipate potential seasonal peaks. Plan inventory and staff accordingly for expected demand surges. 
+7.Review product offerings and promotions
+8.Leverage insights from product category performance 
